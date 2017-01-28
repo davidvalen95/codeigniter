@@ -48,7 +48,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div class='container paddingAll60'>
 	<div class='innerContainer'>
 		<div class='sectionTitle'>
-			<h2>Tentang Kamiss</h2>
+			<h2>Tentang Kamisss</h2>
 			<span>Tentang PT. Hasta Sampurna Nityatama</span>
 		</div>
 		<div class='article'>
